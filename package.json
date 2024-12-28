@@ -1,0 +1,17 @@
+{
+  "name": "k-setup",
+  "version": "1.0.2",
+  "description": "A CLI to create new React & React Navite Template with tailwind css",
+  "main": "bin/template.js",
+  "bin": {
+    "k-setup": "bin/template.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet!\""
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
